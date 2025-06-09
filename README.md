@@ -1,6 +1,6 @@
 # Social-Media-Analytics using Tableau
 
-## Executive Summary
+## Introduction
 The Social Media Intelligence Dashboard provides a comprehensive overview of content performance across regions and platforms. It consolidates key metrics such as impressions, clicks, likes, comments, shares, views, to track audience interaction and campaign reach over time. The dashboard is designed to support content teams, regional leads, and marketing strategists in making informed, data-driven decisions.
 
 ## Data Sourcing 

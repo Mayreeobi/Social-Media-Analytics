@@ -56,23 +56,16 @@ Key Visuals & Features:
 ## Insights 🔍 Key Findings
 1. Average engagement rate across all plaforms ranges from 14.33% to 15.29%; with Facebok and TikTok having 15.29% and 15.28% respectively.
 2. Organic vs Promoted Content: Organic posts accounts for almost 70% of all metrics (impressions, engagement, likes, views etc) across most countries with the exception of India and the UK.
-3. Top Performing Platforms & Content Types: Campaigns with strong storytelling, regional relevance, and media assets (images/videos) drive the highest engagement.
-  - YouTube and TikTok lead in impression,engagement, likes and views, while  performs well with video content.
-  - Videos consistently outperform images and text posts in terms of engagement across all regions and  platforms. While in Linkedin article outshine ever other post type.
-3. Content Categories by Region
-  - Content categories varies in different region but overall product promotion content has high engagement
-  - Live event content receives strong video views, especially in regions like ....
-4. Hashtag Performance: Specific hashtags such as #ProductDemo and #Customerstory drive higher impressions and clicks.
-5. Publishing Time Insights
+3. Top Performing Platforms & Content Types: Videos consistently outperform  other post type in terms of engagement and impression across all regions and  platforms. While in Linkedin article outshine ever other post type.
+  - In the last 2 month, X.com lead in impression,engagement, likes and views, while  TikTok performs well with video and YouTube on Live stream video content
+  - Live streaming content receives strong video views, especially in regions like Germany.
+4. Content Categories by Region: Content categories varies in different region but overall product promotion content has high engagement.
+5. Hashtag Performance: Specific hashtags such as #ProductDemo and #Customerstory drive higher impressions and clicks.
+6. Publishing Time Insights
   - Mid-week (Wednesday and Saturday) posts between 11 AM and 12 noon consistently generate the highest engagement.
   - Engagement is lower on Tuesdays by 2 PM
-4. Content Performance Varies by Region: Engagement levels differ significantly across regions. While some regions show consistent audience interaction, others indicate lower performance, suggesting a need for localized content strategies.
-4. Content Type Influences Engagement: Visual-heavy and concise posts outperform longer text-based content in terms of likes and shares.
-5. Publishing Frequency and Timing Matter: Posts published during weekday afternoons (12PM–3PM) consistently receive higher engagement, especially in key growth regions.
-6. Underperforming Content Categories Identified: Certain content categories, despite high impressions, show low engagement rates, highlighting a misalignment between content type and audience interest.
-6. Regional Performance Differences
-  - Asian regions show strong engagement despite fewer posts, indicating potential for content expansion.
-  - European regions display higher impressions but moderate engagement, suggesting a need to tailor content type or tone.
+7. Content Performance Varies by Region: Engagement levels differ significantly across regions. While some regions show consistent audience interaction, others indicate lower performance, suggesting a need for localized content strategies.
+8. Underperforming Content Categories Identified: Certain content categories like Event/Webinar & Customer story, show low engagement and impression, highlighting a misalignment between content type and audience interest.
 
 
 ## ✅ Recommendations

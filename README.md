@@ -21,7 +21,7 @@ This analysis sought to address the following key questions:
 8. Are there correlations between engagement levels and content categories or publishing time?
 9. How do organic vs. promoted content types compare in terms of reach and performance?
 
-## [Dashboard](https://public.tableau.com/app/profile/chinyere.obi8867/viz/SocialMediaPerformance_17493375078760)
+## [Dashboard](https://public.tableau.com/views/SocialMediaPerformance_17493375078760/Executivesummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 The dashboard is made up of 3 sections - Executive summary, Regional & Content Strategy and lastly Publishing optimization
   - Executive Summary: This section provides a high-level overview of overall platform performance and post effectiveness. It highlights which platforms and post types drive the most engagement and views, showcasing the comparative strengths of TikTok, Instagram, LinkedIn, and X.com.
 
